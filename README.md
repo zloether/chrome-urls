@@ -12,7 +12,7 @@ Chrome URLs and what they do
 | [chrome://appcache-internals]() | Display information about application cache |
 | [chrome://apps]() | Displays all of your Chrome Apps |
 | [chrome://autofill-internals]() | Display captured autofill logs |
-| [chrome://blob-internals]() | BLOB(Binary large objects) – Show you the analytics of blobs |
+| [chrome://blob-internals]() | Displays BLOB(Binary large objects) analytics |
 | [chrome://bluetooth-internals]() | Display Bluetooth adapter, devices, and debug logs | 
 | [chrome://bookmarks]() | Bookmarks manager |
 | [chrome://chrome-urls]() | Display all Chrome URLs |
