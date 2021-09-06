@@ -77,22 +77,22 @@ Chrome URLs and what they do
 
 
 ## Additional Debugging URLs
-chrome://badcastcrash/
-chrome://inducebrowsercrashforrealz/
-chrome://crash/
-chrome://crashdump/
-chrome://kill/
-chrome://hang/
-chrome://shorthang/
-chrome://gpuclean/
-chrome://gpucrash/
-chrome://gpuhang/
-chrome://memory-exhaust/
-chrome://memory-pressure-critical/
-chrome://memory-pressure-moderate/
-chrome://ppapiflashcrash/
-chrome://ppapiflashhang/
-chrome://inducebrowserheapcorruption/
-chrome://heapcorruptioncrash/
-chrome://quit/
-chrome://restart/
+- chrome://badcastcrash/
+- chrome://inducebrowsercrashforrealz/
+- chrome://crash/
+- chrome://crashdump/
+- chrome://kill/
+- chrome://hang/
+- chrome://shorthang/
+- chrome://gpuclean/
+- chrome://gpucrash/
+- chrome://gpuhang/
+- chrome://memory-exhaust/
+- chrome://memory-pressure-critical/
+- chrome://memory-pressure-moderate/
+- chrome://ppapiflashcrash/
+- chrome://ppapiflashhang/
+- chrome://inducebrowserheapcorruption/
+- chrome://heapcorruptioncrash/
+- chrome://quit/
+- chrome://restart/
